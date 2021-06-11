@@ -1,1 +1,1 @@
-I am starting shell basics
+I am starting shell basicsc
