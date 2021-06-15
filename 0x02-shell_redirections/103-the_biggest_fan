@@ -1,0 +1,2 @@
+#!/bin/bash
+awk '{print $1}' access.log.2021-06/15 | sort -r
