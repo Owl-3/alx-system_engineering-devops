@@ -1,0 +1,25 @@
+total 68
+drwxrwxr-x 2 owl3 owl3 4096 Kam 15 10:28 .
+drwxrwxr-x 6 owl3 owl3 4096 Kam 14 21:51 ..
+-rwxrw-r-- 1 owl3 owl3   32 Kam 14 22:07 0-hello_world
+-rwxrw-r-- 1 owl3 owl3   33 Kam 14 22:06 0-hello_world~
+-rwxrw-r-- 1 owl3 owl3   19 Kam 15 09:25 #1-confused_smiley#
+-rwxrw-r-- 1 owl3 owl3   28 Kam 15 09:22 1-confused_smiley
+-rwxrw-r-- 1 owl3 owl3   32 Kam 15 09:21 1-confused_smiley~
+-rwxrw-r-- 1 owl3 owl3   28 Kam 15 09:44 2-hellofile
+-rw-rw-r-- 1 owl3 owl3    0 Kam 15 09:43 2-hellofile~
+-rwxrw-r-- 1 owl3 owl3   39 Kam 15 09:50 3-twofiles
+-rw-rw-r-- 1 owl3 owl3    0 Kam 15 09:49 3-twofiles~
+-rwxrw-r-- 1 owl3 owl3   35 Kam 15 09:55 4-lastfiles
+-rw-rw-r-- 1 owl3 owl3    0 Kam 15 09:52 4-lastfiles~
+-rwxrw-r-- 1 owl3 owl3   35 Kam 15 09:58 5-firstlines
+-rw-rw-r-- 1 owl3 owl3    0 Kam 15 09:57 5-firstlines~
+-rwxrw-r-- 1 owl3 owl3   42 Kam 15 10:02 6-third_line
+-rwxrw-r-- 1 owl3 owl3    0 Kam 15 10:01 6-third_line~
+-rwxrw-r-- 1 owl3 owl3   91 Kam 15 10:23 7-file
+-rwxrw-r-- 1 owl3 owl3   83 Kam 15 10:19 7-file~
+-rwxrw-r-- 1 owl3 owl3   36 Kam 15 10:28 8-cwd_state
+-rwxrw-r-- 1 owl3 owl3    0 Kam 15 10:26 8-cwd_state~
+-rw-rw-r-- 1 owl3 owl3   43 Kam 15 10:19 \*\'Holberton
+-rw-rw-r-- 1 owl3 owl3   17 Kam 15 10:23 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 owl3 owl3    0 Kam 15 10:28 ls_cwd_content
